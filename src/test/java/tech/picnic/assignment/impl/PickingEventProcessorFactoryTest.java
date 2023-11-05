@@ -156,3 +156,6 @@ final class PickingEventProcessorFactoryTest {
         assertFalse(factories.hasNext(), "More than one EventProcessorFactory is service-loaded");
     }
 }
+
+
+// This is a trial
